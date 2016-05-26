@@ -539,7 +539,8 @@ img {
    3. General
    ========================================================================== */
 .masthead {
-  background: rgba(130,207,208,0.6) url("../img/header.jpg") repeat-y;
+  background: rgba(130,207,208,0.6) url("../img/header.png");
+  background-size: cover;
   width: 30%;
   max-height: 100%;
   text-align: center;
